@@ -1,0 +1,16 @@
+header {
+    background-color: olivedrab;
+}
+
+.info {
+    background-color: black;
+    color: olivedrab;
+}
+img{
+    height: 500px;
+    width: 600px;
+}
+h3 {
+    background-color: olivedrab;
+    color: black;
+}
